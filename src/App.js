@@ -18,9 +18,7 @@ function App() {
 
         <Route path='/favourites' element={<> <Favourites/> </>} />
       </Routes>
-      {/* <Banner/> */}
-      {/* <Movies/> name="udai" */}
-      {/* <Favourite/> */}
+   
     </Router>
   );
 }
